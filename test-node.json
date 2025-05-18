@@ -1,0 +1,5 @@
+[
+  { "source": "A", "target": "B", "value": 1 },
+  { "source": "B", "target": "C", "value": 1 },
+  { "source": "C", "target": "A", "value": 1 }
+]
